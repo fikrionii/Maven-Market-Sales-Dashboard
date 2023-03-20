@@ -4,6 +4,9 @@ Maven Market Sales Dashboard Performance, created with Microsoft Power BI
 
 ## The Dashboard
 
+<p align="center">
+<kbd><img src="https://github.com/fikrionii/Maven-Market-Sales-Dashboard/blob/main/Maven_Market_Sales_Dashboard.PNG" alt="Image" width="800" height="640"></kbd>
+
 ## Data Model
 
 <p align="center">
