@@ -1,2 +1,19 @@
-# Maven-Market-Sales-Dashboard
+# Maven Market Sales Dashboard
+
 Maven Market Sales Dashboard Performance, created with Microsoft Power BI
+
+## Data Model
+
+`Customers` - Record consists of customers data with customer name, birth date, address, etc.
+
+`Products` - Record consists of product name, brand, cost and retail price.
+
+`Calendars` - Record consists of date, month and year.
+
+`Stores` - Record consists of store data with address, city and country of the store.
+
+`Regions` - Record consists of regions data.
+
+`Transaction_Data` - Record consists of transaction data with customer id, transaction date, cost, revenue and profit.
+
+`Return_Data` - Record consists of returned items.
